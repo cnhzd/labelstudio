@@ -1,0 +1,2468 @@
+[
+  {
+    "image": "/data/upload/4/2f94dbf1-30.JPG",
+    "id": 79,
+    "label": [
+      {
+        "x": 0.8591065292096222,
+        "y": 4.5,
+        "width": 95.70446735395191,
+        "height": 89.75,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 520,
+        "original_height": 357
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 104,
+    "created_at": "2022-11-27T17:42:52.364923Z",
+    "updated_at": "2022-11-27T17:42:52.364923Z",
+    "lead_time": 4.303
+  },
+  {
+    "image": "/data/upload/4/6a4e6103-29.JPG",
+    "id": 78,
+    "label": [
+      {
+        "x": 3.0927835051546393,
+        "y": 4.972375690607735,
+        "width": 94.84536082474224,
+        "height": 90.23941068139963,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 386,
+        "original_height": 360
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 103,
+    "created_at": "2022-11-27T17:42:46.672673Z",
+    "updated_at": "2022-11-27T17:42:46.672673Z",
+    "lead_time": 7.642
+  },
+  {
+    "image": "/data/upload/4/0dc47b78-28.JPG",
+    "id": 77,
+    "label": [
+      {
+        "x": 0.7142857142857143,
+        "y": 5.8928571428571415,
+        "width": 98.39285714285714,
+        "height": 92.67857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 520,
+        "original_height": 520
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 102,
+    "created_at": "2022-11-27T17:42:37.913499Z",
+    "updated_at": "2022-11-27T17:42:37.913499Z",
+    "lead_time": 4.884
+  },
+  {
+    "image": "/data/upload/4/37eaa38a-27.JPG",
+    "id": 76,
+    "label": [
+      {
+        "x": 0.5119453924914675,
+        "y": 2.1875,
+        "width": 97.44027303754264,
+        "height": 94.375,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 679,
+        "original_height": 371
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 101,
+    "created_at": "2022-11-27T17:42:31.290087Z",
+    "updated_at": "2022-11-27T17:42:31.290087Z",
+    "lead_time": 5.638
+  },
+  {
+    "image": "/data/upload/4/e3cd8706-6.jpg",
+    "id": 89,
+    "label": [
+      {
+        "x": 1.6071428571428568,
+        "y": 5.178571428571429,
+        "width": 98.03571428571426,
+        "height": 90.71428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1200,
+        "original_height": 1200
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 100,
+    "created_at": "2022-11-27T17:42:14.774831Z",
+    "updated_at": "2022-11-27T17:42:14.774831Z",
+    "lead_time": 5.111
+  },
+  {
+    "image": "/data/upload/4/cf81c274-5.jpg",
+    "id": 88,
+    "label": [
+      {
+        "x": 0.6825938566552903,
+        "y": 1.0781671159029653,
+        "width": 97.09897610921502,
+        "height": 93.53099730458221,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 900,
+        "original_height": 570
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 99,
+    "created_at": "2022-11-27T17:42:08.244703Z",
+    "updated_at": "2022-11-27T17:42:08.244703Z",
+    "lead_time": 4.89
+  },
+  {
+    "image": "/data/upload/4/756a8213-4.jpg",
+    "id": 87,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 1.834862385321101,
+        "width": 95.18900343642609,
+        "height": 92.20183486238533,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 259,
+        "original_height": 194
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2022-11-27T17:42:01.306920Z",
+    "updated_at": "2022-11-27T17:42:01.306920Z",
+    "lead_time": 4.274
+  },
+  {
+    "image": "/data/upload/4/7603f03a-3.jpg",
+    "id": 86,
+    "label": [
+      {
+        "x": 0.8591065292096222,
+        "y": 1.146788990825688,
+        "width": 97.76632302405498,
+        "height": 90.8256880733945,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 259,
+        "original_height": 194
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2022-11-27T17:41:55.651910Z",
+    "updated_at": "2022-11-27T17:41:55.651910Z",
+    "lead_time": 8.02
+  },
+  {
+    "image": "/data/upload/4/f2e657f7-2.jpg",
+    "id": 85,
+    "label": [
+      {
+        "x": 0.8928571428571427,
+        "y": 24.285714285714285,
+        "width": 99.10714285714286,
+        "height": 67.85714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2022-11-27T17:41:46.212504Z",
+    "updated_at": "2022-11-27T17:41:46.212504Z",
+    "lead_time": 4.683
+  },
+  {
+    "image": "/data/upload/4/74505627-1.jpg",
+    "id": 84,
+    "label": [
+      {
+        "x": 5.1194539249146755,
+        "y": 10,
+        "width": 94.88054607508532,
+        "height": 76.81818181818181,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1504,
+        "original_height": 1128
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 95,
+    "created_at": "2022-11-27T17:41:39.445980Z",
+    "updated_at": "2022-11-27T17:41:39.445980Z",
+    "lead_time": 5.28
+  },
+  {
+    "image": "/data/upload/4/fe850e59-34.JPG",
+    "id": 83,
+    "label": [
+      {
+        "x": 3.2119914346895073,
+        "y": 1.6071428571428568,
+        "width": 96.3597430406852,
+        "height": 91.07142857142857,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 302,
+        "original_height": 362
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2022-11-27T17:41:32.968340Z",
+    "updated_at": "2022-11-27T17:41:32.968340Z",
+    "lead_time": 4.722
+  },
+  {
+    "image": "/data/upload/4/dd6ad7d2-33.JPG",
+    "id": 82,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 1.7921146953405014,
+        "width": 95.70446735395191,
+        "height": 96.23655913978494,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 532,
+        "original_height": 510
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2022-11-27T17:41:27.207073Z",
+    "updated_at": "2022-11-27T17:41:27.207073Z",
+    "lead_time": 4.923
+  },
+  {
+    "image": "/data/upload/4/90b22b24-32.JPG",
+    "id": 81,
+    "label": [
+      {
+        "x": 2.391304347826087,
+        "y": 1.9642857142857142,
+        "width": 94.34782608695652,
+        "height": 93.92857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 424,
+        "original_height": 516
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2022-11-27T17:41:20.268507Z",
+    "updated_at": "2022-11-27T17:41:20.268507Z",
+    "lead_time": 12.198
+  },
+  {
+    "image": "/data/upload/4/4c5745c0-31.JPG",
+    "id": 80,
+    "label": [
+      {
+        "x": 5.154639175257731,
+        "y": 5.679012345679013,
+        "width": 91.23711340206185,
+        "height": 88.88888888888889,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 576,
+        "original_height": 401
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2022-11-27T17:41:06.559146Z",
+    "updated_at": "2022-11-27T17:41:06.559146Z",
+    "lead_time": 4.528
+  },
+  {
+    "image": "/data/upload/4/2919301d-16.JPG",
+    "id": 99,
+    "label": [
+      {
+        "x": 10.166358595194085,
+        "y": 5.178571428571429,
+        "width": 80.59149722735674,
+        "height": 92.3214285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 504,
+        "original_height": 522
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2022-11-27T17:40:52.879970Z",
+    "updated_at": "2022-11-27T17:40:52.879970Z",
+    "lead_time": 5.002
+  },
+  {
+    "image": "/data/upload/4/feb4e31a-15.jpg",
+    "id": 98,
+    "label": [
+      {
+        "x": 2.04778156996587,
+        "y": 4.336734693877551,
+        "width": 88.56655290102387,
+        "height": 89.79591836734694,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 856
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2022-11-27T17:40:46.718761Z",
+    "updated_at": "2022-11-27T17:40:46.718761Z",
+    "lead_time": 4.191
+  },
+  {
+    "image": "/data/upload/4/cc1b50f4-14.JPG",
+    "id": 97,
+    "label": [
+      {
+        "x": 1.9693654266958425,
+        "y": 5.8928571428571415,
+        "width": 94.31072210065645,
+        "height": 89.28571428571429,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 399,
+        "original_height": 489
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2022-11-27T17:40:40.606452Z",
+    "updated_at": "2022-11-27T17:40:40.606452Z",
+    "lead_time": 6.386
+  },
+  {
+    "image": "/data/upload/4/1edf1352-13.JPG",
+    "id": 96,
+    "label": [
+      {
+        "x": 0,
+        "y": 11.420612813370473,
+        "width": 98.79725085910653,
+        "height": 85.51532033426182,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 570,
+        "original_height": 352
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 87,
+    "created_at": "2022-11-27T17:40:32.860736Z",
+    "updated_at": "2022-11-27T17:40:32.861741Z",
+    "lead_time": 5.814
+  },
+  {
+    "image": "/data/upload/4/e0639d2f-12.JPG",
+    "id": 95,
+    "label": [
+      {
+        "x": 3.7800687285223367,
+        "y": 8.812260536398467,
+        "width": 93.8144329896907,
+        "height": 91.18773946360153,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 557,
+        "original_height": 500
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 86,
+    "created_at": "2022-11-27T17:40:25.609465Z",
+    "updated_at": "2022-11-27T17:40:25.609465Z",
+    "lead_time": 5.172
+  },
+  {
+    "image": "/data/upload/4/21fdfbe3-11.JPG",
+    "id": 94,
+    "label": [
+      {
+        "x": 0.6825938566552903,
+        "y": 2.097902097902098,
+        "width": 97.44027303754264,
+        "height": 97.2027972027972,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 677,
+        "original_height": 496
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 85,
+    "created_at": "2022-11-27T17:40:19.361493Z",
+    "updated_at": "2022-11-27T17:40:19.361493Z",
+    "lead_time": 5.326
+  },
+  {
+    "image": "/data/upload/4/766d6600-10.jpg",
+    "id": 93,
+    "label": [
+      {
+        "x": 4.266211604095563,
+        "y": 6.267029972752043,
+        "width": 95.73378839590444,
+        "height": 92.64305177111717,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 676,
+        "original_height": 423
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2022-11-27T17:40:12.875593Z",
+    "updated_at": "2022-11-27T17:40:12.875593Z",
+    "lead_time": 5.91
+  },
+  {
+    "image": "/data/upload/4/db6760b2-9.jpg",
+    "id": 92,
+    "label": [
+      {
+        "x": 8.571428571428571,
+        "y": 10,
+        "width": 77.85714285714286,
+        "height": 78.03571428571429,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 225,
+        "original_height": 225
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2022-11-27T17:40:05.891859Z",
+    "updated_at": "2022-11-27T17:40:05.891859Z",
+    "lead_time": 3.782
+  },
+  {
+    "image": "/data/upload/4/ded17c85-8.jpg",
+    "id": 91,
+    "label": [
+      {
+        "x": 1.25,
+        "y": 0.5357142857142857,
+        "width": 98.75,
+        "height": 73.75,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1200,
+        "original_height": 1200
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 82,
+    "created_at": "2022-11-27T17:40:00.367947Z",
+    "updated_at": "2022-11-27T17:40:00.367947Z",
+    "lead_time": 5.171
+  },
+  {
+    "image": "/data/upload/4/2200b5aa-7.jpg",
+    "id": 90,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 0,
+        "width": 96.73539518900344,
+        "height": 96.3302752293578,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 259,
+        "original_height": 194
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 81,
+    "created_at": "2022-11-27T17:39:54.211682Z",
+    "updated_at": "2022-11-27T17:39:54.211682Z",
+    "lead_time": 5.413
+  },
+  {
+    "image": "/data/upload/4/63e60a8a-26.JPG",
+    "id": 109,
+    "label": [
+      {
+        "x": 0.8547008547008549,
+        "y": 1.5625,
+        "width": 97.43589743589743,
+        "height": 94.375,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 737,
+        "original_height": 403
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 80,
+    "created_at": "2022-11-27T17:39:32.484798Z",
+    "updated_at": "2022-11-27T17:39:32.484798Z",
+    "lead_time": 5.313
+  },
+  {
+    "image": "/data/upload/4/4c41b330-25.JPG",
+    "id": 108,
+    "label": [
+      {
+        "x": 0.34129692832764513,
+        "y": 1.0893246187363834,
+        "width": 96.9283276450512,
+        "height": 96.73202614379085,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 697,
+        "original_height": 546
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 79,
+    "created_at": "2022-11-27T17:39:25.000560Z",
+    "updated_at": "2022-11-27T17:39:25.000560Z",
+    "lead_time": 6.197
+  },
+  {
+    "image": "/data/upload/4/d832b4c3-24.JPG",
+    "id": 107,
+    "label": [
+      {
+        "x": 2.730375426621161,
+        "y": 1.2406947890818862,
+        "width": 94.02730375426621,
+        "height": 96.02977667493796,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 620,
+        "original_height": 426
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 78,
+    "created_at": "2022-11-27T17:39:17.226552Z",
+    "updated_at": "2022-11-27T17:39:17.226552Z",
+    "lead_time": 5.085
+  },
+  {
+    "image": "/data/upload/4/a942a7be-23.JPG",
+    "id": 106,
+    "label": [
+      {
+        "x": 1.932367149758454,
+        "y": 3.75,
+        "width": 94.20289855072464,
+        "height": 94.28571428571426,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 374,
+        "original_height": 506
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 77,
+    "created_at": "2022-11-27T17:39:10.587357Z",
+    "updated_at": "2022-11-27T17:39:10.587357Z",
+    "lead_time": 5.441
+  },
+  {
+    "image": "/data/upload/4/42c6846c-22.JPG",
+    "id": 105,
+    "label": [
+      {
+        "x": 5.290102389078498,
+        "y": 6.459948320413435,
+        "width": 90.61433447098976,
+        "height": 90.95607235142118,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 878,
+        "original_height": 580
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 76,
+    "created_at": "2022-11-27T17:39:03.886999Z",
+    "updated_at": "2022-11-27T17:39:03.886999Z",
+    "lead_time": 6.651
+  },
+  {
+    "image": "/data/upload/4/e0719a84-21.JPG",
+    "id": 104,
+    "label": [
+      {
+        "x": 8.376068376068375,
+        "y": 2,
+        "width": 90.5982905982906,
+        "height": 94.28571428571429,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 714,
+        "original_height": 427
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 75,
+    "created_at": "2022-11-27T17:38:54.861544Z",
+    "updated_at": "2022-11-27T17:38:54.861544Z",
+    "lead_time": 11.795
+  },
+  {
+    "image": "/data/upload/4/fa5205b0-20.JPG",
+    "id": 103,
+    "label": [
+      {
+        "x": 2.2900763358778624,
+        "y": 1.6071428571428568,
+        "width": 94.27480916030534,
+        "height": 98.39285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 381,
+        "original_height": 407
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 74,
+    "created_at": "2022-11-27T17:38:41.857191Z",
+    "updated_at": "2022-11-27T17:38:41.857191Z",
+    "lead_time": 4.93
+  },
+  {
+    "image": "/data/upload/4/9c7baec3-19.JPG",
+    "id": 102,
+    "label": [
+      {
+        "x": 3.5211267605633805,
+        "y": 2.6785714285714284,
+        "width": 91.31455399061034,
+        "height": 94.28571428571426,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 367,
+        "original_height": 483
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 73,
+    "created_at": "2022-11-27T17:38:32.718781Z",
+    "updated_at": "2022-11-27T17:38:32.718781Z",
+    "lead_time": 5.042
+  },
+  {
+    "image": "/data/upload/4/37a7463a-18.JPG",
+    "id": 101,
+    "label": [
+      {
+        "x": 0.3527336860670194,
+        "y": 2.3214285714285716,
+        "width": 93.65079365079364,
+        "height": 96.60714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 304,
+        "original_height": 300
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 72,
+    "created_at": "2022-11-27T17:38:25.411447Z",
+    "updated_at": "2022-11-27T17:38:26.594328Z",
+    "lead_time": 6.801
+  },
+  {
+    "image": "/data/upload/4/83c900e9-17.JPG",
+    "id": 100,
+    "label": [
+      {
+        "x": 0.8438818565400843,
+        "y": 0.8928571428571427,
+        "width": 95.9915611814346,
+        "height": 98.21428571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 449,
+        "original_height": 530
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 71,
+    "created_at": "2022-11-27T17:38:16.065362Z",
+    "updated_at": "2022-11-27T17:38:16.065362Z",
+    "lead_time": 17.188
+  },
+  {
+    "image": "/data/upload/4/d7daa06c-62.jpg",
+    "id": 75,
+    "label": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 99.3127147766323,
+        "height": 87.6315789473684,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 521,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 70,
+    "created_at": "2022-11-27T17:21:10.360014Z",
+    "updated_at": "2022-11-27T17:21:14.583134Z",
+    "lead_time": 8.074
+  },
+  {
+    "image": "/data/upload/4/26c7f019-95.jpg",
+    "id": 74,
+    "label": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 95.36082474226806,
+        "height": 84.27835051546391,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 69,
+    "created_at": "2022-11-27T17:21:04.262580Z",
+    "updated_at": "2022-11-27T17:21:04.262580Z",
+    "lead_time": 4.569
+  },
+  {
+    "image": "/data/upload/4/695af6a7-53.jpg",
+    "id": 73,
+    "label": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 80.58419243986255,
+        "height": 91.21447028423772,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 511,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 68,
+    "created_at": "2022-11-27T17:20:58.242609Z",
+    "updated_at": "2022-11-27T17:20:58.242609Z",
+    "lead_time": 14.688
+  },
+  {
+    "image": "/data/upload/4/712b7da7-55.jpg",
+    "id": 72,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 0.25839793281653756,
+        "width": 97.07903780068729,
+        "height": 95.09043927648578,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 511,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 67,
+    "created_at": "2022-11-27T17:20:38.767430Z",
+    "updated_at": "2022-11-27T17:20:38.767430Z",
+    "lead_time": 5.092
+  },
+  {
+    "image": "/data/upload/4/f8290e0d-74.jpg",
+    "id": 71,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 1.1441647597254,
+        "width": 98.28178694158073,
+        "height": 97.25400457665904,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 66,
+    "created_at": "2022-11-27T17:20:31.823486Z",
+    "updated_at": "2022-11-27T17:20:31.823486Z",
+    "lead_time": 4.221
+  },
+  {
+    "image": "/data/upload/4/68722ff0-51.jpg",
+    "id": 70,
+    "label": [
+      {
+        "x": 0.6872852233676976,
+        "y": 1.2919896640826873,
+        "width": 94.5017182130584,
+        "height": 94.83204134366925,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 511,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 65,
+    "created_at": "2022-11-27T17:20:26.341631Z",
+    "updated_at": "2022-11-27T17:20:26.341631Z",
+    "lead_time": 8.191
+  },
+  {
+    "image": "/data/upload/4/8ded82f6-73.jpg",
+    "id": 69,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 0.6864988558352403,
+        "width": 97.76632302405498,
+        "height": 97.94050343249427,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 64,
+    "created_at": "2022-11-27T17:20:16.227458Z",
+    "updated_at": "2022-11-27T17:20:16.227458Z",
+    "lead_time": 5.02
+  },
+  {
+    "image": "/data/upload/4/647b231c-47.jpg",
+    "id": 65,
+    "label": [
+      {
+        "x": 6.684491978609626,
+        "y": 10.178571428571429,
+        "width": 90.64171122994652,
+        "height": 69.64285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 227,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 63,
+    "created_at": "2022-11-27T17:20:02.260246Z",
+    "updated_at": "2022-11-27T17:20:02.260246Z",
+    "lead_time": 5.238
+  },
+  {
+    "image": "/data/upload/4/2e390753-44.jpg",
+    "id": 64,
+    "label": [
+      {
+        "x": 6.989247311827956,
+        "y": 0.17857142857142858,
+        "width": 84.9462365591398,
+        "height": 89.64285714285715,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 226,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 62,
+    "created_at": "2022-11-27T17:19:55.734350Z",
+    "updated_at": "2022-11-27T17:19:55.734350Z",
+    "lead_time": 3.583
+  },
+  {
+    "image": "/data/upload/4/62321ed3-45.jpg",
+    "id": 63,
+    "label": [
+      {
+        "x": 5.415860735009671,
+        "y": 9.821428571428571,
+        "width": 90.71566731141199,
+        "height": 84.64285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 314,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 61,
+    "created_at": "2022-11-27T17:19:50.883726Z",
+    "updated_at": "2022-11-27T17:19:50.883726Z",
+    "lead_time": 4.072
+  },
+  {
+    "image": "/data/upload/4/fe9d68b3-54.jpg",
+    "id": 62,
+    "label": [
+      {
+        "x": 1.06951871657754,
+        "y": 0.17857142857142858,
+        "width": 91.44385026737967,
+        "height": 93.57142857142857,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 227,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 60,
+    "created_at": "2022-11-27T17:19:43.794566Z",
+    "updated_at": "2022-11-27T17:19:43.794566Z",
+    "lead_time": 6.327
+  },
+  {
+    "image": "/data/upload/4/a8f5216a-76.jpg",
+    "id": 61,
+    "label": [
+      {
+        "x": 3.2646048109965644,
+        "y": 1.2886597938144326,
+        "width": 90.893470790378,
+        "height": 96.90721649484536,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 59,
+    "created_at": "2022-11-27T17:19:34.710587Z",
+    "updated_at": "2022-11-27T17:19:34.710587Z",
+    "lead_time": 13.47
+  },
+  {
+    "image": "/data/upload/4/75e2bd72-59.jpg",
+    "id": 60,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 2.0618556701030926,
+        "width": 15.807560137457045,
+        "height": 94.0721649484536,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      },
+      {
+        "x": 30.584192439862544,
+        "y": 0,
+        "width": 32.98969072164948,
+        "height": 82.21649484536083,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      },
+      {
+        "x": 15.292096219931272,
+        "y": 0,
+        "width": 20.618556701030926,
+        "height": 86.5979381443299,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 58,
+    "created_at": "2022-11-27T17:19:19.382460Z",
+    "updated_at": "2022-11-27T17:19:19.382460Z",
+    "lead_time": 19.059
+  },
+  {
+    "image": "/data/upload/4/0a214ac6-96.jpg",
+    "id": 59,
+    "label": [
+      {
+        "x": 26.804123711340207,
+        "y": 2.9748283752860414,
+        "width": 38.144329896907216,
+        "height": 81.46453089244854,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      },
+      {
+        "x": 65.12027491408935,
+        "y": 1.6018306636155606,
+        "width": 24.398625429553263,
+        "height": 58.12356979405034,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2022-11-27T17:18:58.979966Z",
+    "updated_at": "2022-11-27T17:18:58.979966Z",
+    "lead_time": 11.005
+  },
+  {
+    "image": "/data/upload/4/dcb791f0-58.jpg",
+    "id": 57,
+    "label": [
+      {
+        "x": 1.6042780748663104,
+        "y": 0.17857142857142858,
+        "width": 96.524064171123,
+        "height": 99.46428571428574,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 227,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 56,
+    "created_at": "2022-11-27T17:18:45.916055Z",
+    "updated_at": "2022-11-27T17:18:45.916055Z",
+    "lead_time": 8.765
+  },
+  {
+    "image": "/data/upload/4/6a4ee296-57.jpg",
+    "id": 55,
+    "label": [
+      {
+        "x": 0.8591065292096222,
+        "y": 0.5154639175257731,
+        "width": 94.84536082474224,
+        "height": 97.16494845360825,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 55,
+    "created_at": "2022-11-27T17:18:32.243002Z",
+    "updated_at": "2022-11-27T17:18:32.243002Z",
+    "lead_time": 5.871
+  },
+  {
+    "image": "/data/upload/4/c7a0907d-46.jpg",
+    "id": 54,
+    "label": [
+      {
+        "x": 13.402061855670103,
+        "y": 21.1340206185567,
+        "width": 28.1786941580756,
+        "height": 64.69072164948454,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      },
+      {
+        "x": 32.47422680412371,
+        "y": 11.597938144329897,
+        "width": 31.27147766323024,
+        "height": 74.22680412371136,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      },
+      {
+        "x": 64.60481099656357,
+        "y": 16.752577319587623,
+        "width": 14.948453608247423,
+        "height": 73.71134020618557,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 54,
+    "created_at": "2022-11-27T17:18:24.279912Z",
+    "updated_at": "2022-11-27T17:18:24.279912Z",
+    "lead_time": 8.053
+  },
+  {
+    "image": "/data/upload/4/b6bf2236-92.jpg",
+    "id": 53,
+    "label": [
+      {
+        "x": 26.470588235294116,
+        "y": 0.8928571428571427,
+        "width": 67.11229946524064,
+        "height": 96.60714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 227,
+        "original_height": 340
+      },
+      {
+        "x": 2.9411764705882355,
+        "y": 1.4285714285714286,
+        "width": 33.68983957219251,
+        "height": 89.46428571428572,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 227,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 53,
+    "created_at": "2022-11-27T17:18:14.955384Z",
+    "updated_at": "2022-11-27T17:18:14.955384Z",
+    "lead_time": 14.73
+  },
+  {
+    "image": "/data/upload/4/facb0e49-88.jpg",
+    "id": 52,
+    "label": [
+      {
+        "x": 0.5154639175257731,
+        "y": 2.5773195876288653,
+        "width": 95.36082474226806,
+        "height": 85.56701030927834,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 52,
+    "created_at": "2022-11-27T17:17:58.117767Z",
+    "updated_at": "2022-11-27T17:17:58.117767Z",
+    "lead_time": 4.859
+  },
+  {
+    "image": "/data/upload/4/4a0eada8-72.jpg",
+    "id": 51,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 0.4576659038901602,
+        "width": 92.9553264604811,
+        "height": 97.48283752860412,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 51,
+    "created_at": "2022-11-27T17:17:51.717777Z",
+    "updated_at": "2022-11-27T17:17:51.717777Z",
+    "lead_time": 6.644
+  },
+  {
+    "image": "/data/upload/4/64a5b94a-70.jpg",
+    "id": 50,
+    "label": [
+      {
+        "x": 0.1718213058419244,
+        "y": 0.9153318077803204,
+        "width": 82.4742268041237,
+        "height": 97.48283752860412,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2022-11-27T17:17:43.867075Z",
+    "updated_at": "2022-11-27T17:17:43.867075Z",
+    "lead_time": 11.572
+  },
+  {
+    "image": "/data/upload/4/8576c9be-94.jpg",
+    "id": 48,
+    "label": [
+      {
+        "x": 23.71134020618556,
+        "y": 15.025906735751295,
+        "width": 57.044673539518904,
+        "height": 74.09326424870464,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 512,
+        "original_height": 340
+      },
+      {
+        "x": 0.3436426116838488,
+        "y": 1.2953367875647668,
+        "width": 31.786941580756015,
+        "height": 91.19170984455958,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 512,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2022-11-27T17:17:25.845075Z",
+    "updated_at": "2022-11-27T17:17:25.845075Z",
+    "lead_time": 14.984
+  },
+  {
+    "image": "/data/upload/4/a36dfe5e-71.jpg",
+    "id": 47,
+    "label": [
+      {
+        "x": 0.8021390374331552,
+        "y": 0.17857142857142858,
+        "width": 97.86096256684492,
+        "height": 98.5714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 227,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2022-11-27T17:17:09.271610Z",
+    "updated_at": "2022-11-27T17:17:09.271610Z",
+    "lead_time": 8.462
+  },
+  {
+    "image": "/data/upload/4/4c60dd53-108.jpg",
+    "id": 46,
+    "label": [
+      {
+        "x": 0.5154639175257731,
+        "y": 1.8306636155606408,
+        "width": 98.10996563573883,
+        "height": 96.5675057208238,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2022-11-27T17:16:59.630722Z",
+    "updated_at": "2022-11-27T17:16:59.630722Z",
+    "lead_time": 12.867
+  },
+  {
+    "image": "/data/upload/4/1a56eaa4-89.jpg",
+    "id": 45,
+    "label": [
+      {
+        "x": 0,
+        "y": 0.17857142857142858,
+        "width": 97.86096256684492,
+        "height": 95.71428571428574,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 227,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2022-11-27T17:16:45.513098Z",
+    "updated_at": "2022-11-27T17:16:45.513098Z",
+    "lead_time": 6.385
+  },
+  {
+    "image": "/data/upload/4/9c331c42-84.jpg",
+    "id": 44,
+    "label": [
+      {
+        "x": 26.632302405498283,
+        "y": 0.7731958762886598,
+        "width": 66.32302405498281,
+        "height": 95.87628865979381,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2022-11-27T17:16:37.547542Z",
+    "updated_at": "2022-11-27T17:16:37.547542Z",
+    "lead_time": 9.258
+  },
+  {
+    "image": "/data/upload/4/dc829e27-69.jpg",
+    "id": 43,
+    "label": [
+      {
+        "x": 0.6872852233676976,
+        "y": 1.6018306636155606,
+        "width": 98.28178694158073,
+        "height": 98.39816933638444,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2022-11-27T17:15:41.921170Z",
+    "updated_at": "2022-11-27T17:16:26.212020Z",
+    "lead_time": 52.022999999999996
+  },
+  {
+    "image": "/data/upload/4/bd5eda07-65.jpg",
+    "id": 42,
+    "label": [
+      {
+        "x": 26.460481099656363,
+        "y": 0,
+        "width": 14.776632302405499,
+        "height": 88.65979381443299,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      },
+      {
+        "x": 0.5154639175257731,
+        "y": 0.5154639175257731,
+        "width": 16.83848797250859,
+        "height": 82.47422680412369,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      },
+      {
+        "x": 14.261168384879726,
+        "y": 2.0618556701030926,
+        "width": 10.137457044673539,
+        "height": 79.63917525773194,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2022-11-27T17:15:30.118367Z",
+    "updated_at": "2022-11-27T17:15:30.118367Z",
+    "lead_time": 24.413
+  },
+  {
+    "image": "/data/upload/4/a142f3b1-50.jpg",
+    "id": 41,
+    "label": [
+      {
+        "x": 0,
+        "y": 0.25773195876288657,
+        "width": 93.8144329896907,
+        "height": 99.22680412371135,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2022-11-27T17:15:04.319901Z",
+    "updated_at": "2022-11-27T17:15:04.319901Z",
+    "lead_time": 7.569
+  },
+  {
+    "image": "/data/upload/4/62e23af5-68.jpg",
+    "id": 40,
+    "label": [
+      {
+        "x": 1.0309278350515463,
+        "y": 3.8901601830663615,
+        "width": 96.56357388316151,
+        "height": 94.73684210526316,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2022-11-27T17:14:55.329726Z",
+    "updated_at": "2022-11-27T17:14:55.329726Z",
+    "lead_time": 13.472
+  },
+  {
+    "image": "/data/upload/4/51da5fed-56.jpg",
+    "id": 39,
+    "label": [
+      {
+        "x": 1.0309278350515463,
+        "y": 38.860103626942994,
+        "width": 25.42955326460481,
+        "height": 60.880829015544045,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 512,
+        "original_height": 340
+      },
+      {
+        "x": 18.04123711340206,
+        "y": 61.6580310880829,
+        "width": 25.42955326460481,
+        "height": 37.04663212435232,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 512,
+        "original_height": 340
+      },
+      {
+        "x": 20.962199312714777,
+        "y": 2.0725388601036276,
+        "width": 47.42268041237112,
+        "height": 91.96891191709845,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 512,
+        "original_height": 340
+      },
+      {
+        "x": 42.78350515463917,
+        "y": 1.2953367875647668,
+        "width": 51.20274914089346,
+        "height": 65.28497409326425,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 512,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2022-11-27T17:14:40.326939Z",
+    "updated_at": "2022-11-27T17:14:40.326939Z",
+    "lead_time": 27.487
+  },
+  {
+    "image": "/data/upload/4/d3f15065-75.jpg",
+    "id": 38,
+    "label": [
+      {
+        "x": 2.7491408934707904,
+        "y": 4.805491990846682,
+        "width": 96.56357388316151,
+        "height": 81.46453089244854,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 453,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2022-11-27T17:14:10.395052Z",
+    "updated_at": "2022-11-27T17:14:11.377581Z",
+    "lead_time": 7.349
+  },
+  {
+    "image": "/data/upload/4/aa467371-82.jpg",
+    "id": 36,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 0.25773195876288657,
+        "width": 99.1408934707904,
+        "height": 98.96907216494846,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2022-11-27T17:13:57.325880Z",
+    "updated_at": "2022-11-27T17:13:58.446113Z",
+    "lead_time": 13.806999999999999
+  },
+  {
+    "image": "/data/upload/4/20f63438-49.jpg",
+    "id": 35,
+    "label": [
+      {
+        "x": 5.841924398625429,
+        "y": 0.5154639175257731,
+        "width": 89.00343642611683,
+        "height": 91.49484536082474,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2022-11-27T17:13:40.722451Z",
+    "updated_at": "2022-11-27T17:13:41.896335Z",
+    "lead_time": 7.484
+  },
+  {
+    "image": "/data/upload/4/43b02553-64.jpg",
+    "id": 34,
+    "label": [
+      {
+        "x": 1.5625,
+        "y": 0,
+        "width": 65.625,
+        "height": 80.35714285714286,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 233,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2022-11-27T17:13:30.217649Z",
+    "updated_at": "2022-11-27T17:13:30.217649Z",
+    "lead_time": 13.67
+  },
+  {
+    "image": "/data/upload/4/95031d64-52.jpg",
+    "id": 33,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 0.5167958656330751,
+        "width": 99.65635738831615,
+        "height": 94.31524547803618,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 511,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2022-11-27T17:13:12.890774Z",
+    "updated_at": "2022-11-27T17:13:12.890774Z",
+    "lead_time": 7.166
+  },
+  {
+    "image": "/data/upload/4/429e9e39-77.jpg",
+    "id": 32,
+    "label": [
+      {
+        "x": 0.8591065292096222,
+        "y": 0.5154639175257731,
+        "width": 98.96907216494846,
+        "height": 97.9381443298969,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2022-11-27T17:12:59.438120Z",
+    "updated_at": "2022-11-27T17:13:00.955589Z",
+    "lead_time": 9.043
+  },
+  {
+    "image": "/data/upload/4/5b98b004-63.jpg",
+    "id": 31,
+    "label": [
+      {
+        "x": 1.3745704467353952,
+        "y": 0,
+        "width": 98.28178694158073,
+        "height": 83.76288659793815,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2022-11-27T17:12:48.325169Z",
+    "updated_at": "2022-11-27T17:12:49.652204Z",
+    "lead_time": 12.832
+  },
+  {
+    "image": "/data/upload/4/389678e4-60.jpg",
+    "id": 30,
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2022-11-27T17:12:34.954181Z",
+    "updated_at": "2022-11-27T17:12:34.954181Z",
+    "lead_time": 0.651
+  },
+  {
+    "image": "/data/upload/4/f1776f4e-105.jpg",
+    "id": 29,
+    "label": [
+      {
+        "x": 1.0309278350515463,
+        "y": 0,
+        "width": 45.18900343642612,
+        "height": 56.95876288659794,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2022-11-27T17:12:20.644541Z",
+    "updated_at": "2022-11-27T17:12:20.644541Z",
+    "lead_time": 5.093
+  },
+  {
+    "image": "/data/upload/4/aec65ba2-7.JPG",
+    "id": 27,
+    "label": [
+      {
+        "x": 1.023890784982935,
+        "y": 0,
+        "width": 97.7815699658703,
+        "height": 98.77750611246944,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 631,
+        "original_height": 440
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2022-11-27T17:11:57.793750Z",
+    "updated_at": "2022-11-27T17:11:57.793750Z",
+    "lead_time": 15.56
+  },
+  {
+    "image": "/data/upload/4/dd9adc08-6.JPG",
+    "id": 26,
+    "label": [
+      {
+        "x": 0.3436426116838488,
+        "y": 1.7928286852589645,
+        "width": 96.90721649484536,
+        "height": 96.61354581673307,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 516,
+        "original_height": 445
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2022-11-27T17:11:39.360232Z",
+    "updated_at": "2022-11-27T17:11:39.360232Z",
+    "lead_time": 7.638
+  },
+  {
+    "image": "/data/upload/4/1856c4c1-5.JPG",
+    "id": 25,
+    "label": [
+      {
+        "x": 2.5597269624573378,
+        "y": 0,
+        "width": 96.9283276450512,
+        "height": 97.50566893424036,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 658,
+        "original_height": 495
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2022-11-27T17:11:30.014045Z",
+    "updated_at": "2022-11-27T17:11:30.014045Z",
+    "lead_time": 19.004
+  },
+  {
+    "image": "/data/upload/4/bbe5813b-4.JPG",
+    "id": 24,
+    "label": [
+      {
+        "x": 1.1965811965811968,
+        "y": 1.3192612137203166,
+        "width": 97.94871794871793,
+        "height": 97.62532981530343,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 627,
+        "original_height": 406
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2022-11-27T17:11:09.787812Z",
+    "updated_at": "2022-11-27T17:11:09.787812Z",
+    "lead_time": 7.063
+  },
+  {
+    "image": "/data/upload/4/8c575bd1-3.JPG",
+    "id": 23,
+    "label": [
+      {
+        "x": 7.35042735042735,
+        "y": 4.285714285714286,
+        "width": 91.62393162393163,
+        "height": 90.28571428571426,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 592,
+        "original_height": 354
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2022-11-27T17:11:01.534134Z",
+    "updated_at": "2022-11-27T17:11:01.534134Z",
+    "lead_time": 4.648
+  },
+  {
+    "image": "/data/upload/4/c0c1e504-2.JPG",
+    "id": 22,
+    "label": [
+      {
+        "x": 7.216494845360825,
+        "y": 1.9138755980861244,
+        "width": 83.16151202749141,
+        "height": 95.93301435406698,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 573,
+        "original_height": 412
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2022-11-27T17:10:55.360763Z",
+    "updated_at": "2022-11-27T17:10:55.360763Z",
+    "lead_time": 10.361
+  },
+  {
+    "image": "/data/upload/4/fa15c589-1.JPG",
+    "id": 20,
+    "label": [
+      {
+        "x": 6.837606837606839,
+        "y": 12.46376811594203,
+        "width": 92.82051282051282,
+        "height": 86.66666666666667,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 755,
+        "original_height": 445
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2022-11-27T17:10:37.002654Z",
+    "updated_at": "2022-11-27T17:10:37.002654Z",
+    "lead_time": 10.273
+  },
+  {
+    "image": "/data/upload/4/c3a42953-61.jpg",
+    "id": 28,
+    "label": [
+      {
+        "x": 0.5154639175257731,
+        "y": 0.25773195876288657,
+        "width": 75.94501718213058,
+        "height": 87.88659793814433,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      },
+      {
+        "x": 57.90378006872854,
+        "y": 0.25773195876288657,
+        "width": 40.72164948453608,
+        "height": 81.44329896907215,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 510,
+        "original_height": 340
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2022-11-27T17:09:50.392151Z",
+    "updated_at": "2022-11-27T17:10:17.382581Z",
+    "lead_time": 38.4
+  },
+  {
+    "image": "/data/upload/4/6c53e7c2-25.jpg",
+    "id": 18,
+    "label": [
+      {
+        "x": 0,
+        "y": 0.22727272727272727,
+        "width": 82.93515358361775,
+        "height": 98.63636363636363,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 960
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2022-11-27T17:05:33.609223Z",
+    "updated_at": "2022-11-27T17:05:33.610263Z",
+    "lead_time": 14.82
+  },
+  {
+    "image": "/data/upload/4/a2262a39-24.jpg",
+    "id": 17,
+    "label": [
+      {
+        "x": 13.139931740614335,
+        "y": 13.554987212276215,
+        "width": 24.744027303754265,
+        "height": 71.09974424552432,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1920,
+        "original_height": 1280
+      },
+      {
+        "x": 38.225255972696246,
+        "y": 17.135549872122763,
+        "width": 33.27645051194539,
+        "height": 65.98465473145782,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1920,
+        "original_height": 1280
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2022-11-27T17:05:06.958079Z",
+    "updated_at": "2022-11-27T17:05:15.285295Z",
+    "lead_time": 16.279
+  },
+  {
+    "image": "/data/upload/4/c36fbb38-23.jpg",
+    "id": 16,
+    "label": [
+      {
+        "x": 3.0716723549488054,
+        "y": 5.882352941176471,
+        "width": 92.4914675767918,
+        "height": 93.09462915601023,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 853
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2022-11-27T17:04:56.069953Z",
+    "updated_at": "2022-11-27T17:04:56.070952Z",
+    "lead_time": 9.98
+  },
+  {
+    "image": "/data/upload/4/787185b9-22.jpg",
+    "id": 15,
+    "label": [
+      {
+        "x": 0.34129692832764513,
+        "y": 4.603580562659847,
+        "width": 44.88054607508533,
+        "height": 88.49104859335038,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 853
+      },
+      {
+        "x": 45.90443686006826,
+        "y": 3.0690537084398977,
+        "width": 48.80546075085324,
+        "height": 87.21227621483376,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 853
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2022-11-27T17:04:34.810794Z",
+    "updated_at": "2022-11-27T17:04:44.796395Z",
+    "lead_time": 18.365000000000002
+  },
+  {
+    "image": "/data/upload/4/d880f659-21.jpg",
+    "id": 14,
+    "label": [
+      {
+        "x": 0.9671179883945842,
+        "y": 7.5,
+        "width": 98.45261121856866,
+        "height": 88.39285714285714,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1182,
+        "original_height": 1280
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2022-11-27T17:04:24.536584Z",
+    "updated_at": "2022-11-27T17:04:24.536584Z",
+    "lead_time": 11.019
+  },
+  {
+    "image": "/data/upload/4/be0135ea-20.jpg",
+    "id": 13,
+    "label": [
+      {
+        "x": 20.13651877133106,
+        "y": 3.1818181818181817,
+        "width": 45.90443686006826,
+        "height": 79.0909090909091,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 960
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2022-11-27T17:04:12.065290Z",
+    "updated_at": "2022-11-27T17:04:12.065290Z",
+    "lead_time": 14.729
+  },
+  {
+    "image": "/data/upload/4/016e0ad7-19.jpg",
+    "id": 12,
+    "label": [
+      {
+        "x": 0.17064846416382257,
+        "y": 0,
+        "width": 70.13651877133105,
+        "height": 95.9079283887468,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 853
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2022-11-27T17:03:17.915522Z",
+    "updated_at": "2022-11-27T17:03:17.915522Z",
+    "lead_time": 26.658
+  },
+  {
+    "image": "/data/upload/4/070f084e-18.jpg",
+    "id": 11,
+    "label": [
+      {
+        "x": 0.34129692832764513,
+        "y": 0.22727272727272727,
+        "width": 98.97610921501706,
+        "height": 99.0909090909091,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 960
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2022-11-27T17:02:49.106418Z",
+    "updated_at": "2022-11-27T17:02:49.106418Z",
+    "lead_time": 20.601
+  },
+  {
+    "image": "/data/upload/4/2e65fe30-17.jpg",
+    "id": 10,
+    "label": [
+      {
+        "x": 15.358361774744028,
+        "y": 0,
+        "width": 80.88737201365188,
+        "height": 77.74936061381072,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 853
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2022-11-27T17:02:26.215709Z",
+    "updated_at": "2022-11-27T17:02:26.215709Z",
+    "lead_time": 19.176
+  },
+  {
+    "image": "/data/upload/4/9fa2cb48-16.jpg",
+    "id": 9,
+    "label": [
+      {
+        "x": 1.4285714285714286,
+        "y": 0,
+        "width": 86.60714285714286,
+        "height": 72.5,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 1280
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2022-11-27T17:02:02.901459Z",
+    "updated_at": "2022-11-27T17:02:02.901459Z",
+    "lead_time": 29.816
+  },
+  {
+    "image": "/data/upload/4/0afdecdc-15.jpg",
+    "id": 8,
+    "label": [
+      {
+        "x": 0.34129692832764513,
+        "y": 0.6818181818181818,
+        "width": 98.80546075085324,
+        "height": 97.95454545454545,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 960
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2022-11-27T17:01:28.580037Z",
+    "updated_at": "2022-11-27T17:01:28.580037Z",
+    "lead_time": 13.001
+  },
+  {
+    "image": "/data/upload/4/11c51415-14.jpg",
+    "id": 7,
+    "label": [
+      {
+        "x": 2.1791767554479415,
+        "y": 0,
+        "width": 97.57869249394673,
+        "height": 98.75,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 943,
+        "original_height": 1280
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2022-11-27T17:01:10.563981Z",
+    "updated_at": "2022-11-27T17:01:10.563981Z",
+    "lead_time": 29.193
+  },
+  {
+    "image": "/data/upload/4/99d33aeb-13.jpg",
+    "id": 6,
+    "label": [
+      {
+        "x": 1.023890784982935,
+        "y": 0.2557544757033248,
+        "width": 98.29351535836177,
+        "height": 89.51406649616368,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 1280,
+        "original_height": 853
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2022-11-27T17:00:39.868066Z",
+    "updated_at": "2022-11-27T17:00:39.868066Z",
+    "lead_time": 26.366
+  },
+  {
+    "image": "/data/upload/4/1a8a46f3-12.JPG",
+    "id": 5,
+    "label": [
+      {
+        "x": 0,
+        "y": 1.5695067264573992,
+        "width": 98.97610921501706,
+        "height": 93.94618834080717,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 625,
+        "original_height": 476
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2022-11-27T17:00:09.427073Z",
+    "updated_at": "2022-11-27T17:00:09.427073Z",
+    "lead_time": 12.192
+  },
+  {
+    "image": "/data/upload/4/5db9bb1b-11.JPG",
+    "id": 4,
+    "label": [
+      {
+        "x": 0,
+        "y": 0.19342359767891687,
+        "width": 99.14675767918087,
+        "height": 95.93810444874275,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 620,
+        "original_height": 547
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2022-11-27T16:59:54.458893Z",
+    "updated_at": "2022-11-27T16:59:54.458893Z",
+    "lead_time": 12.836
+  },
+  {
+    "image": "/data/upload/4/3098a476-10.JPG",
+    "id": 3,
+    "label": [
+      {
+        "x": 0,
+        "y": 1.917808219178082,
+        "width": 99.82935153583618,
+        "height": 95.61643835616438,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 636,
+        "original_height": 396
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2022-11-27T16:59:37.110873Z",
+    "updated_at": "2022-11-27T16:59:37.110873Z",
+    "lead_time": 9.558
+  },
+  {
+    "image": "/data/upload/4/2428fc88-9.JPG",
+    "id": 2,
+    "label": [
+      {
+        "x": 0,
+        "y": 2.3060796645702304,
+        "width": 100,
+        "height": 93.29140461215934,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 639,
+        "original_height": 520
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2022-11-27T16:59:25.102636Z",
+    "updated_at": "2022-11-27T16:59:25.102636Z",
+    "lead_time": 27.265
+  },
+  {
+    "image": "/data/upload/4/8f40b534-8.JPG",
+    "id": 1,
+    "label": [
+      {
+        "x": 0.3418803418803419,
+        "y": 6.299212598425197,
+        "width": 98.97435897435898,
+        "height": 91.0761154855643,
+        "rotation": 0,
+        "rectanglelabels": [
+          "OakTree"
+        ],
+        "original_width": 616,
+        "original_height": 401
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2022-11-27T16:50:02.105486Z",
+    "updated_at": "2022-11-27T16:58:55.285598Z",
+    "lead_time": 164.99599999999998
+  }
+]
